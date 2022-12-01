@@ -1,38 +1,34 @@
-<h1 align="center">Hey 👋, I'm Manas Pandey</h1>
-<h3 align="center">A Tech Geek</h3>
+<h1 align="center">Hi 👋, I'm MANAS PANDEY</h1>
+<h3 align="center">I am a tech geek who is passionate about AI ,Ethical hacking, New tech . I have previously lead communities where I learned skills which included Management, Leadership and working for Non-profit causes. I prefer to be part of real life project than working in hackathons</h3>
 
+
+<img algin= "left"> <img src="https://img.freepik.com/premium-vector/cute-astronaut-floating-with-laptop-planet-space-cartoon-vector-icon-illustration-science_138676-4665.jpg?w=2000.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manaspandey0&label=Profile%20views&color=0e75b6&style=flat" alt="manaspandey0" /> </p>
 
-<p align="center">I am a tech geek who is passionate about community learning, I have previously lead communities where I learned skills which included DevOps, Management, Leadership and working for Non-profit causes. I prefer to be part of real life project than working in hackathons.</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manaspandey0" alt="manaspandey0" /></a> </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/manas-pandey-a53a5122a/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="manas" width="22px" />
-</a></p>
+<p align="left"> <a href="https://twitter.com/manashub" target="blank"><img src="https://img.shields.io/twitter/follow/manashub?logo=twitter&style=for-the-badge" alt="manashub" /></a> </p>
 
+- 🌱 I’m currently learning **Kali Linux , AI**
 
-### Operating Systems :
-<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>
-<img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0957250e66d0bd9ef389ec04088ec094/red-hat-enterprise-linux.png" alt="RedHat Enterprise Linux" title="RedHat" width="40" height="40"/>
-<img src="https://w7.pngwing.com/pngs/756/47/png-transparent-four-assorted-color-squares-microsoft-windows-logo-scalable-graphics-microsoft-new-logo-simple-angle-text-rectangle-thumbnail.png" alt="MS Windows" title="MS Windows" width="40" height="40"/>
+- 🤝 I’m looking for help with **Linux , Ethical Hacking**
+
+- 📫 How to reach me **manaspandey529@gmail.com**
+
+- ⚡ Fun fact **I eat more then you think!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/manashub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manashub" height="30" width="40" /></a>
+<a href="https://instagram.com/akamanaspandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akamanaspandey" height="30" width="40" /></a>
+<a href="https://discord.gg/Younglord#5731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Younglord#5731" height="30" width="40" /></a>
 </p>
 
-### DevOps Tools :
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/>  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-#### Editor and IDEs
-<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manaspandey0&show_icons=true&locale=en&layout=compact" alt="manaspandey0" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manaspandey0&show_icons=true&locale=en" alt="manaspandey0" /></p>
 
-### Manas's GitHub Stats
-![Manas's github stats](https://github-readme-stats.vercel.app/api?username=manaspandey0&show_icons=true&hide_border=false&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manaspandey0&" alt="manaspandey0" /></p>
