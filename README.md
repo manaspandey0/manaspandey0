@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm MANAS PANDEY</h1>
 <h3 align="center">I am a tech geek who is passionate about AI ,Ethical hacking, New tech . I have previously lead communities where I learned skills which included Management, Leadership and working for Non-profit causes. I prefer to be part of real life project than working in hackathons</h3>
-
-
 <img algin= "left"> <img src="https://img.freepik.com/premium-vector/cute-astronaut-floating-with-laptop-planet-space-cartoon-vector-icon-illustration-science_138676-4665.jpg?w=2000.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manaspandey0&label=Profile%20views&color=0e75b6&style=flat" alt="manaspandey0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manaspandey0" alt="manaspandey0" /></a> </p>
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manas-pandey-a53a5122a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manas-pandey-a53a5122a" height="30" width="40" /></a>
 
 - 🌱 I’m currently learning **Kali Linux , AI**
 
@@ -20,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/manashub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manashub" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manas-pandey-a53a5122a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manas-pandey-a53a5122a" height="30" width="40" /></a>
 <a href="https://instagram.com/akamanaspandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akamanaspandey" height="30" width="40" /></a>
-<a href="https://discord.gg/Younglord#5731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Younglord#5731" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
