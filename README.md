@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manaspandey0" alt="manaspandey0" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/manashub" target="blank"><img src="https://img.shields.io/twitter/follow/manashub?logo=twitter&style=for-the-badge" alt="manashub" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/manas-pandey-a53a5122a" target="blank"><img src="https://img.shields.io/Linkedin/manas-pandey?logo=Linkedin&style=for-the-badge" alt="manaspandey" /></a> </p>
 
 - 🌱 I’m currently learning **Kali Linux , AI**
 
